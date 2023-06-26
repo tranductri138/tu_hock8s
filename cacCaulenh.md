@@ -1,6 +1,8 @@
 1 Start your cluster start run with administrator on windows
 minikube start
 
+This is a <span style="background-color:yellow">highlighted text</span> example.
+
 ấn lệnh này là để list hết pod đang chạy trong tất cả các namespace cái này check kubectl nhé
 kubectl get po -A
 
